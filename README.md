@@ -1,2 +1,2 @@
-# Machine_Minds_Core_Course_V1
+# Machine_Minds_courses on of them
  CPP, OOP Course 
